@@ -63,7 +63,8 @@ This report analyzes the shortfall in GPA for students who have been rejected du
 &nbsp; &nbsp; 
 
 
-<img width="619" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/6abd390a-0b20-4fcc-bba6-58ddfad54771">
+<img width="617" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/e23e1b92-3736-4f1a-827d-073fc31de8b6">
+
 
 &nbsp; &nbsp; 
 
