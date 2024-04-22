@@ -21,10 +21,10 @@ _Following are the outcome of the project:_
 
 In totality there are four reports has been created.
 
-**Report 1 - Student Placement Overview:**
+**Report 1 - Student Admission Overview:**
 This report includes the names of students along with their GPA and the school/program they have been selected for. For instance, students with a GPA between 90 and 100 are assigned to the School of Engineering, those with a GPA between 80 and 90 to the School of Business, those with a GPA between 70 and 80 to the Law School, and those with a GPA less than 70 are marked as Not Accepted.
 
-**Report 2 - Placement Statistics:**
+**Report 2 - Admission Statistics:**
 This report provides an overview of the total number of students who have secured placement.
 
 **Report 3 - Rejection Statistics:**
