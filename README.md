@@ -35,37 +35,37 @@ This report analyzes the shortfall in GPA for students who have been rejected du
 
 <img width="326" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/c756a686-7e1e-4042-b6d3-5d84aca1ad18">
 
-&nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; 
 
 <img width="619" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/cdd6674c-0996-400c-abb2-b4a3ff2725da">
 
-
+&nbsp; &nbsp; 
 
 
 <img width="621" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/629390ab-3af0-408a-ae51-9e39150d9028">
 
-
+&nbsp; &nbsp; 
 
 
 <img width="620" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/9326f083-41f6-4e54-a8ad-09a178507acf">
 
-
+&nbsp; &nbsp; 
 
 
 
 <img width="617" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/bea0987c-83cd-4513-952e-4cae63e9862b">
 
-
+&nbsp; &nbsp; 
 
 
 <img width="619" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/2839079e-f48e-40e1-aede-8a8bc7bfce0f">
 
-
+&nbsp; &nbsp; 
 
 
 <img width="619" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/6abd390a-0b20-4fcc-bba6-58ddfad54771">
 
-
+&nbsp; &nbsp; 
 
 
 <img width="620" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/3d0e1d82-d6a6-4c1e-a935-ae8d576dd2bc">
