@@ -1,5 +1,6 @@
 # College_Admission_project
 **Requirement:** During the 1st Semester, I engaged in a Python project, leveraging advanced concepts including Object-Oriented Programming (OOP), Tkinter GUI framework, and more.
+
 **Role & Reponsibility:** As a team manager, Python developer, and tester, my responsibilities encompassed the entire lifecycle of the project. I oversaw the development process, ensuring smooth collaboration among team members, and took charge of coding and testing phases to ensure the system's functionality and reliability. Additionally, I played a pivotal role in crafting an engaging and informative presentation using Microsoft PowerPoint to mark the project as complete
 
 _Following are the functionality created in the project:_
@@ -31,3 +32,34 @@ Here, the total count of students who have been rejected during the admission pr
 
 **Report 4 - Shortfall Analysis of Rejected Students:**
 This report analyzes the shortfall in GPA for students who have been rejected during the admission process, shedding light on how much their GPA fell short of the required criteria.
+
+<img width="326" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/c756a686-7e1e-4042-b6d3-5d84aca1ad18">
+
+
+<img width="619" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/cdd6674c-0996-400c-abb2-b4a3ff2725da">
+
+<img width="621" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/629390ab-3af0-408a-ae51-9e39150d9028">
+
+<img width="616" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/ef732cb4-5f48-4e8a-917d-52405a4b2c03">
+
+<img width="617" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/bea0987c-83cd-4513-952e-4cae63e9862b">
+
+<img width="619" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/2839079e-f48e-40e1-aede-8a8bc7bfce0f">
+
+<img width="617" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/f457cd23-b107-46c7-ba77-f4c80d8ae326">
+
+<img width="620" alt="image" src="https://github.com/ChakshuM/College_Admission_Project/assets/50142921/3d0e1d82-d6a6-4c1e-a935-ae8d576dd2bc">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
